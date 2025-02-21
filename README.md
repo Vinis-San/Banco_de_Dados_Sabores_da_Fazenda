@@ -121,7 +121,7 @@ O front-end foi desenvolvido utilizando HTML, CSS e JavaScript (puro), fornecend
 
 ### 5.1. Gerenciamento de Produtos
 - Cadastro, edição e exclusão de produtos.
-- Visualização de informações detalhadas dos queijos.
+- Visualização de informações detalhadas dos Queijos.
 
 ### 5.2. Registro de Produções
 - Registro diário de produções, incluindo quantidade e tipo de queijo produzido.
